@@ -1,2 +1,2 @@
 # Login/Signup page
-a login/signup page was created using html, css and js
+The project involved creating a dynamic webpage using HTML, CSS, and JavaScript, with a focus on user authentication. The webpage allows users to easily log in or create a new account. It incorporates smooth animations to enhance the user experience. The login and account creation functionalities were implemented securely to ensure user data is protected. Overall, the project showcases a seamless and engaging interface for user interaction.
